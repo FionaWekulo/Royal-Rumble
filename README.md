@@ -1,9 +1,7 @@
 # Game Instructions
 
-* Working on AI gamemode...
-
 - Entry point: main.py
-- Press 't' to change theme (green, brown, blue, grey, purple)
+- Press 't' to change theme (green, brown, blue, grey, purple...etc)
 - Press 'r' to restart the game
 
 # Game Snapshots
