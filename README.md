@@ -1,9 +1,20 @@
-# Game Instructions
+# ROYAL RUMBLE CHESS GAME
+# Introduction
+-This is a person versus person chess game implemented using python module pygame.
+-Link to deployed app: https://fionawekulo.github.io/Royal-Rumble-Chess-Game/
+
+# Installation
+-Make sure you have python and pygame installed.
+-Go to the deployed app link and click get game to download the app.
+-Extract the file and run the main.exe file.
+# Usage
 
 - Entry point: main.py
 - Press 't' to change theme (green, brown, blue, grey, purple...etc)
 - Press 'r' to restart the game
 
+# Contributing
+- Fiona Abigael Wekulo- Linkedin:https://www.linkedin.com/in/fiona-wekulo-a34985214/
 # Game Snapshots
 
 ## Snapshot 1 - Start (green)
